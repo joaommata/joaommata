@@ -1,4 +1,4 @@
-# 💫 About Me  
+# 💫 Hey there, I'm João
 
 I'm a **Biomedical Engineering Master's student** with a strong interest in **AI, data science, medical imaging, brain-computer interfaces, biosignals, and clinical engineering**.  
 
