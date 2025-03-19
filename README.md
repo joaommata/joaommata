@@ -1,5 +1,16 @@
-# 💫 About Me:
-I'm a Biomedical Engineering Master's student with a strong interest in AI, data science, medical imaging, brain-computer interfaces, biosignals, and clinical engineering. <br>Currently, I'm:<br><br>📘 A masters student in Biomedical Engineering @ Técnico Lisboa<br><br>📊 Data Science Intern at a tech company, working on advanced multi-agent AI systems,<br><br>🤖 Organizing the BEST Course in Lisbon on AI in healthcare.<br><br>🔬 A founding member of SCMED's Biomedical Section<br><br><br>Let's Connect<br><br>📫 Email: joao.m.mata@tecnico.ulisboa.pt<br><br>🌐 LinkedIn: https://www.linkedin.com/in/joao-m-mata/<br><br>
+# 💫 About Me  
+
+I'm a **Biomedical Engineering Master's student** with a strong interest in **AI, data science, medical imaging, brain-computer interfaces, biosignals, and clinical engineering**.  
+
+## 🔍 Currently, I'm:  
+- 📘 **Master’s student** in Biomedical Engineering @ Técnico Lisboa  
+- 📊 **Data Science Intern** at a tech company, working on advanced multi-agent AI systems  
+- 🤖 **Organizing** the BEST Course in Lisbon on AI in healthcare  
+- 🔬 **Founding member** of SCMED's Biomedical Section  
+
+## 📬 Let's Connect  
+- 📫 **Email:** [joao.m.mata@tecnico.ulisboa.pt](mailto:joao.m.mata@tecnico.ulisboa.pt)  
+- 🌐 **LinkedIn:** [João M. Mata](https://www.linkedin.com/in/joao-m-mata/)  
 
 
 ## 🌐 Socials:
