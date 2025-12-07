@@ -3,7 +3,9 @@
 I'm a **Biomedical Engineering Master's student** with a strong interest in **AI, data science, medical imaging, brain-computer interfaces, biosignals, and clinical engineering**.  
 
 ## 🔍 Currently, I'm:  
-- 📘 **Master’s student** in Biomedical Engineering @ Técnico Lisboa  
+- 📘 **Master’s student** at DTU (Copenhagen) focusing on Deep Learning and Explainability in Medical AI applications
+
+## 👨🏻‍💻 Recent experience:  
 - 📊 **Data Science Intern** at a tech company, working on advanced multi-agent AI systems  
 - 🤖 **Organizing** the BEST Course in Lisbon on AI in healthcare  
 - 🔬 **Founding member** of SCMED's Biomedical Section  
