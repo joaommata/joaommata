@@ -1,22 +1,81 @@
-# 💫 Hey there, I'm João Mata
+# 👋 Hey there, I'm João Mata
 
-I'm a **Biomedical Engineering Master's student** with a strong interest in **AI, data science, medical imaging, brain-computer interfaces, biosignals, and clinical engineering**.  
+I'm a **Biomedical Engineering Master's student** at Instituto Superior Técnico & DTU, specialising in **explainable AI for medical imaging**. I'm motivated by making high-quality, personalised care more accessible through trustworthy and interpretable AI systems.
 
-## 🔍 Currently, I'm:  
-- 📘 **Master’s student** at DTU (Copenhagen) focusing on Deep Learning and Explainability in Medical AI applications
+---
 
-## 👨🏻‍💻 Recent experience:  
-- 📊 **Data Science Intern** at a tech company, working on advanced multi-agent AI systems  
-- 🤖 **Organizing** the BEST Course in Lisbon on AI in healthcare  
-- 🔬 **Founding member** of SCMED's Biomedical Section  
+## 🔍 Currently
 
-## 📬 Let's Connect  
-- 📫 **Email:** [joao.m.mata@tecnico.ulisboa.pt](mailto:joao.m.mata@tecnico.ulisboa.pt)  
-- 🌐 **LinkedIn:** [João M. Mata](https://www.linkedin.com/in/joao-m-mata/)  
+- 🧠 **Master's Thesis @ DTU Compute** — Developing an explainable quality control framework for chest X-ray diagnostic AI, designed to flag unreliable model predictions before they reach the clinician. The system combines a meta-attributeanalysis and counterfactual-generation using diffusion models to train a meta-classifier that predicts when the base model is likely wrong. Currently working with DenseNet121 predictions on CheXpert, targeting Cardiomegaly, Effusion, and Pneumothorax.
 
+  `PyTorch` `torchxrayvision` `scikit-learn` `pyradiomics` `Python`
+- 📘 **Exchange student @ DTU** — Human-Centered AI track (Deep Learning, Responsible AI, AI & Human Cognition)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joao_mata_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-m-mata) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joao.m.mata@tecnico.ulisboa.pt) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## 👨🏻‍💻 Recent Experience
+
+- 🤖 **Junior Data Scientist @ Crab Tech** — Built multi-agent GenAI systems (LangGraph, RAG pipelines, tool-augmented LLMs) for patient-facing apps and pharma enterprise automation
+- 🏥 **Research @ Champalimaud Foundation** — Developed a multimodal RAG system enabling natural language querying of MRI studies within PACS environments
+- 🌍 **Main Organiser — BEST Course 2025: "How to Save a Life"** — Led a team of 28 + 60 volunteers for an international course on AI in Healthcare
+- 🔬 **Founding Member — SCMED Biomedical Engineering Section** — Co-organised the 1st Medicine & Biomedical Engineering Conference at NOVA
+
+---
+
+## 📄 Publications
+
+- 📑 **SPELUNKER** — Item Similarity Search Using LLMs and Custom KNN · [arXiv:2509.21323](https://arxiv.org/html/2509.21323v1) *(Aug 2025)*
+- 🩺 **3D Printed Electronic Stethoscope** for simultaneous ECG & heart sound acquisition · 1st Forum on Innovation in Medicine & Biomedical Engineering, SCMED *(Sept 2024)*
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-m-mata)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joao.m.mata@tecnico.ulisboa.pt)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joao_mata_)
+
+📍 Copenhagen, Denmark | Lisbon, Portugal
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Core Tools**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI / ML & Agentic Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![torchxrayvision](https://img.shields.io/badge/torchxrayvision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![pyradiomics](https://img.shields.io/badge/pyradiomics-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Data Science & Visualisation**
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Design & Hardware**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+## 🎵 Beyond the Lab
+
+- 🍳 Cooking & baking — MasterChef Junior Portugal finalist
+- 🎶 Flute player — ABRSM Practical Grade 4
