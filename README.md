@@ -1,4 +1,4 @@
-# 💫 Hey there, I'm João
+# 💫 Hey there, I'm João Mata
 
 I'm a **Biomedical Engineering Master's student** with a strong interest in **AI, data science, medical imaging, brain-computer interfaces, biosignals, and clinical engineering**.  
 
