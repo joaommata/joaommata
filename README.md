@@ -11,7 +11,7 @@ I'm a **Biomedical Engineering Master's student** at Instituto Superior Técnico
 
 - 🧠 **Master's Thesis @ DTU Compute** — Developing an explainable quality control framework for chest X-ray diagnostic AI, designed to flag unreliable model predictions before they reach the clinician. The system combines a meta-attributeanalysis and counterfactual-generation using diffusion models to train a meta-classifier that predicts when the base model is likely wrong. Currently working with DenseNet121 predictions on CheXpert, targeting Cardiomegaly, Effusion, and Pneumothorax.
 
-  `PyTorch` `torchxrayvision` `scikit-learn` `pyradiomics` `Python`
+  `PyTorch` `torchxrayvision` `scikit-learn` `pyradiomics` `diffusion-models`
 - 📘 **Exchange student @ DTU** — Human-Centered AI track (Deep Learning, Responsible AI, AI & Human Cognition)
 
 ---
