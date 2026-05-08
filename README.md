@@ -13,6 +13,15 @@ I'm a **Biomedical Engineering Master's student** at Instituto Superior Técnico
 
 ---
 
+## 🎓 Education
+
+- 🇵🇹 **MSc Biomedical Engineering** · Instituto Superior Técnico, Lisboa *(2024 – 2026)* · GPA 18/20
+  Specialisation in Biomedical Imaging, Biosignals & Instrumentation
+- 🇩🇰 **Exchange & Thesis** · DTU – Technical University of Denmark *(2025 – 2026)* · GPA 10.5/12
+  Human-Centered AI track — Deep Learning (10), Responsible AI (12), AI & Human Cognition (10)
+- 🇵🇹 **BSc Biomedical Engineering** · Instituto Superior Técnico & Faculty of Medicine, ULisboa *(2021 – 2024)* · GPA 17/20
+
+---
 ## 👨🏻‍💻 Recent Experience
 
 - 🤖 **Junior Data Scientist @ Crab Tech** — Built multi-agent GenAI systems (LangGraph, RAG pipelines, tool-augmented LLMs) for patient-facing apps and pharma enterprise automation
