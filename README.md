@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm João Mata
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-m-mata)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joao.m.mata@tecnico.ulisboa.pt)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joao_mata_)
 📍 Copenhagen, Denmark | Lisbon, Portugal
 
 I'm a **Biomedical Engineering Master's student** at Instituto Superior Técnico & DTU, specialising in **explainable AI for medical imaging**. I'm motivated by making high-quality, personalised care more accessible through trustworthy and interpretable AI systems.
