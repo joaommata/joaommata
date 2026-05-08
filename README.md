@@ -22,25 +22,6 @@ I'm a **Biomedical Engineering Master's student** at Instituto Superior Técnico
 
 ---
 
-## 👨🏻‍💻 Recent Experience
-
-- 🤖 **Junior Data Scientist @ Crab Tech** — Built multi-agent GenAI systems (LangGraph, RAG pipelines, tool-augmented LLMs) for patient-facing apps and pharma enterprise automation
-- 🏥 **Research @ Champalimaud Foundation** — Developed a multimodal RAG system enabling natural language querying of MRI studies within PACS environments
-- 🌍 **Main Organiser — BEST Course 2025: "How to Save a Life"** — Led a team of 28 + 60 volunteers for an international course on AI in Healthcare
-- 🔬 **Founding Member — SCMED Biomedical Engineering Section** — Co-organised the 1st Medicine & Biomedical Engineering Conference at NOVA
-
----
-
-## 🎓 Education
-
-- 🇵🇹 **MSc Biomedical Engineering** · Instituto Superior Técnico, Lisboa *(2024 – 2026)* · GPA 18/20
-  Specialisation in Biomedical Imaging, Biosignals & Instrumentation
-- 🇩🇰 **Exchange & Thesis** · DTU – Technical University of Denmark *(2025 – 2026)* · GPA 10.5/12
-  Human-Centered AI track — Deep Learning (10), Responsible AI (12), AI & Human Cognition (10)
-- 🇵🇹 **BSc Biomedical Engineering** · Instituto Superior Técnico & Faculty of Medicine, ULisboa *(2021 – 2024)* · GPA 17/20
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-m-mata)
