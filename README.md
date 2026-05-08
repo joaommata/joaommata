@@ -82,10 +82,3 @@ I'm a **Biomedical Engineering Master's student** at Instituto Superior Técnico
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
----
-
-## 🎵 Beyond the Lab
-
-- 🍳 Cooking & baking — MasterChef Junior Portugal finalist
-- 🎶 Flute player — ABRSM Practical Grade 4
